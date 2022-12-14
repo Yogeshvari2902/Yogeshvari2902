@@ -10,7 +10,7 @@
 <h3>I'm Yogeshvari Suryawanshi, Full stack developer from Madhya Pradesh, India.</h3>
 
 ➡️ <a href="https://drive.google.com/file/d/1iDQE_OtCW025GJtOfhhDqgDNF2DVo8JC/view?usp=sharing">RESUME 📃</a>↔
-<a href="#">PORTFOLIO 🖥️</a>
+<a href="https://lustrous-clafoutis-4f171f.netlify.app">PORTFOLIO 🖥️</a>
 
 <hr>
 <h3>Socials</h3>
