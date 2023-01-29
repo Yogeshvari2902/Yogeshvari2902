@@ -1,76 +1,89 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
-<img src="https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133" al="code gif">
+<p align="center">
+<a href="https://yogeshvari.netlify.app">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+<a href="https://www.linkedin.com/in/yogeshvari-suryawanshi">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://medium.com/@yogeshvari2022">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+</a>
+<a href="https://www.instagram.com/yogi_78_90">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+</p>
+---
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Yogeshvari Surywanshi 
+located_in: Indore, India
+currently persuing: Full Stack Development course from Masai School
+
+education:
+  [
+    "Bachelor's in Science",
+    "Intermediate from Lakshmi Narain College of Technology"
+  ]
+  
+  contact_info:
+  [
+  "email": yogeshvari2022@gmail.com
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+  ]
+  
+currently_learning: ["MERN"]
+2022 Goals: ["Create 5+ Projects and learn at least 4 new Technologies."]
+hobbies: ["Reading Facts","Travelling","Cooking"]
+```
+  
+---  
+  
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+</p>
+
+---
+
+<h2 ><u>My Github Stats</u></h2>
+<p >
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshvari2902&layout=compact&theme=radical&langs_count=10&exclude_repo=kasweb">
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Yogeshvari2902&count_private=true&show_icons=trueline_height=21&theme=radical">	
+<br>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshvari2902&theme=radical">
+</p>
 
 <hr>
-
-![](https://komarev.com/ghpvc/?username=Yogeshvari2902)
-
-<h1>Hi 🖐️ there! Good to see you. </h1>
+<p align="center">
+   <i>Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.</i>
+   <br>
+   <i>Simplicity is the soul of efficiency.</i>
+   <br>
+<br>
+</p>
 <hr>
-<h2>Welcome to my Github space!</h2>
-<h3>I'm Yogeshvari Suryawanshi, Full stack developer from Madhya Pradesh, India.</h3>
-
-➡️ <a href="https://drive.google.com/file/d/1iDQE_OtCW025GJtOfhhDqgDNF2DVo8JC/view?usp=sharing">RESUME 📃</a>↔
-<a href="https://lustrous-clafoutis-4f171f.netlify.app">PORTFOLIO 🖥️</a>
-
-<hr>
-<h3>Socials</h3>
-
-<a href="https://www.linkedin.com/in/yogeshvari-suryawanshi/"><img src="./assets/linked in.svg"></a>
-<a href="#"><img src="./assets/twitter.svg"></a>
-<a href="#"><img src="./assets/medium icon.svg"></a>
-
-<h3>Email : </h3>
-
-** yogeshvari2022@gmail.com **
-
-<hr>
-<h3>Tech stack that I know : </h3>
-
-<div style="display:flex;">
-<img style="width="50px" height="40px" src="./assets/techstack/bootstarp.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/chakraui.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/css.png" alt="tech stack">
-<!-- <img style="width="0px"; height="40px" id="img1" src="./assets/techstack/firebase.png" alt="tech stack"> -->
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/git.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/github.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/html.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/intelij.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/java.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/javascript.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/material ui.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/nodejs.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/npm'.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/postman.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/react.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/redux.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/restapi.png" alt="tech stack">
-<!-- <img style="width="0px"; height="40px" id="img1" src="./assets/techstack/sass.png" alt="tech stack"> -->
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/windows.png" alt="tech stack">
-</div>
-
-<hr>
-
-<h3>Stats 📊 : </h3>
-
-[![Yogeshvari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogeshvari2902&count_private=true&show_icons=true&theme=flag-india&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshvari2902&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
-<h3>GitHub Stat Trophies</h3>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yogeshvari2902)](https://github.com/ryo-ma/Yogeshvari2902)
-
-<hr>
-
-<h3>Streak Stats : </h3>
-
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Yogeshvari2902)](https://git.io/streak-stats)
-
-
-<!---
-Yogeshvari2902/Yogeshvari2902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
