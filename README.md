@@ -8,13 +8,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yogeshvari2902" alt="Yogeshvari2902" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [Yogeshvari Surywanshi](https://yogeshvari.netlify.app)
+- 👨‍💻 All of my projects are available at [Yogeshvari Surywanshi(Portfolio)](https://yogeshvari.netlify.app)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS and Java**
 
 - 📫 How to reach me **yogeshvari2022@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fq8ZlMH878Q9iFTG5QyyEiEGXdT3c8YO/view?usp=sharing](https://drive.google.com/file/d/1fq8ZlMH878Q9iFTG5QyyEiEGXdT3c8YO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fq8ZlMH878Q9iFTG5QyyEiEGXdT3c8YO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -76,9 +76,5 @@
    <i>Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.</i>
    <br>
    <i>Simplicity is the soul of efficiency.</i>
-   <br>
-<br>	
-<a target="_blank" href="[https://www.linkedin.com/in/yogeshvari-suryawanshi](https://www.linkedin.com/in/yogeshvari-suryawanshi)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:yogeshvari2022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<br>
+<hr>	
 </p>
