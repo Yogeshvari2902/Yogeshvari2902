@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **yogeshvari2022@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fq8ZlMH878Q9iFTG5QyyEiEGXdT3c8YO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15g2Av9yOfVo14xiaO7W4m_hIEdtUbSmD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
