@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yogeshvari Surywanshi</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">An Aspiring and Self - Motivated Full Stack
+Web Developer with Problem solving
+mindset and ability to perform well in
+collaboration..</h3>
 
 <p align="center"><img  height="300px" width="400px" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" alt="gif"/></p>
 
@@ -67,7 +70,7 @@
 
 <p>&nbsp;<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Yogeshvari2902&show_icons=true&locale=en" alt="Yogeshvari2902" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshvari2902&" alt="Yogeshvari2902" /></p>
+<p align="center" marginTop="10px"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshvari2902&" alt="Yogeshvari2902" /></p>
 
 
 
